@@ -1,0 +1,6 @@
+{
+  "name": "Android Word Puzzle Game",
+  "description": "A beautifully designed Android word puzzle game with levels, diverse categories, and custom dynamic AI theme generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
